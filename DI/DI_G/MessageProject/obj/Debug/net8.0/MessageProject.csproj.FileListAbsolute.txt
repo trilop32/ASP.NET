@@ -1,0 +1,11 @@
+C:\Users\Артём\source\repos\ASP.NET\DI\MessageProject\bin\Debug\net8.0\MessageProject.deps.json
+C:\Users\Артём\source\repos\ASP.NET\DI\MessageProject\bin\Debug\net8.0\MessageProject.dll
+C:\Users\Артём\source\repos\ASP.NET\DI\MessageProject\bin\Debug\net8.0\MessageProject.pdb
+C:\Users\Артём\source\repos\ASP.NET\DI\MessageProject\obj\Debug\net8.0\MessageProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артём\source\repos\ASP.NET\DI\MessageProject\obj\Debug\net8.0\MessageProject.AssemblyInfoInputs.cache
+C:\Users\Артём\source\repos\ASP.NET\DI\MessageProject\obj\Debug\net8.0\MessageProject.AssemblyInfo.cs
+C:\Users\Артём\source\repos\ASP.NET\DI\MessageProject\obj\Debug\net8.0\MessageProject.csproj.CoreCompileInputs.cache
+C:\Users\Артём\source\repos\ASP.NET\DI\MessageProject\obj\Debug\net8.0\MessageProject.dll
+C:\Users\Артём\source\repos\ASP.NET\DI\MessageProject\obj\Debug\net8.0\refint\MessageProject.dll
+C:\Users\Артём\source\repos\ASP.NET\DI\MessageProject\obj\Debug\net8.0\MessageProject.pdb
+C:\Users\Артём\source\repos\ASP.NET\DI\MessageProject\obj\Debug\net8.0\ref\MessageProject.dll
