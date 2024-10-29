@@ -132,11 +132,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Артём\\source\\repos\\ASP.NET\\DI\\DI\\DI\\DI.csproj",
+      "projectUniqueName": "C:\\Users\\Артём\\source\\repos\\ASP.NET\\DI\\DI_2\\DI\\DI.csproj",
       "projectName": "DI",
-      "projectPath": "C:\\Users\\Артём\\source\\repos\\ASP.NET\\DI\\DI\\DI\\DI.csproj",
+      "projectPath": "C:\\Users\\Артём\\source\\repos\\ASP.NET\\DI\\DI_2\\DI\\DI.csproj",
       "packagesPath": "C:\\Users\\Артём\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Артём\\source\\repos\\ASP.NET\\DI\\DI\\DI\\obj\\",
+      "outputPath": "C:\\Users\\Артём\\source\\repos\\ASP.NET\\DI\\DI_2\\DI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Артём\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -154,8 +154,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Артём\\source\\repos\\ASP.NET\\DI\\DI\\MessageProject\\MessageProject.csproj": {
-              "projectPath": "C:\\Users\\Артём\\source\\repos\\ASP.NET\\DI\\DI\\MessageProject\\MessageProject.csproj"
+            "C:\\Users\\Артём\\source\\repos\\ASP.NET\\DI\\DI_2\\MessageProject\\MessageProject.csproj": {
+              "projectPath": "C:\\Users\\Артём\\source\\repos\\ASP.NET\\DI\\DI_2\\MessageProject\\MessageProject.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Артём\\source\\repos\\ASP.NET\\DI\\DI\\MessageProject\\MessageProject.csproj": {}
+    "C:\\Users\\Артём\\source\\repos\\ASP.NET\\DI\\DI_2\\MessageProject\\MessageProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Артём\\source\\repos\\ASP.NET\\DI\\DI\\MessageProject\\MessageProject.csproj": {
+    "C:\\Users\\Артём\\source\\repos\\ASP.NET\\DI\\DI_2\\MessageProject\\MessageProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Артём\\source\\repos\\ASP.NET\\DI\\DI\\MessageProject\\MessageProject.csproj",
+        "projectUniqueName": "C:\\Users\\Артём\\source\\repos\\ASP.NET\\DI\\DI_2\\MessageProject\\MessageProject.csproj",
         "projectName": "MessageProject",
-        "projectPath": "C:\\Users\\Артём\\source\\repos\\ASP.NET\\DI\\DI\\MessageProject\\MessageProject.csproj",
+        "projectPath": "C:\\Users\\Артём\\source\\repos\\ASP.NET\\DI\\DI_2\\MessageProject\\MessageProject.csproj",
         "packagesPath": "C:\\Users\\Артём\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Артём\\source\\repos\\ASP.NET\\DI\\DI\\MessageProject\\obj\\",
+        "outputPath": "C:\\Users\\Артём\\source\\repos\\ASP.NET\\DI\\DI_2\\MessageProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Артём\\AppData\\Roaming\\NuGet\\NuGet.Config",

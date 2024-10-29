@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15F0C0DA-5974-42EC-BE02-C577B7208974}|DI\\DI.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15F0C0DA-5974-42EC-BE02-C577B7208974}|DI\\DI.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_2\\di\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15F0C0DA-5974-42EC-BE02-C577B7208974}|DI\\DI.csproj|solutionrelative:di\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15F0C0DA-5974-42EC-BE02-C577B7208974}|DI\\DI.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di\\gamestoreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15F0C0DA-5974-42EC-BE02-C577B7208974}|DI\\DI.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_2\\di\\gamestoreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15F0C0DA-5974-42EC-BE02-C577B7208974}|DI\\DI.csproj|solutionrelative:di\\gamestoreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0126174-C168-4857-A32B-10433E922344}|MessageProject\\MessageProject.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\messageproject\\validationmessagewrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0126174-C168-4857-A32B-10433E922344}|MessageProject\\MessageProject.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_2\\messageproject\\validationmessagewrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0126174-C168-4857-A32B-10433E922344}|MessageProject\\MessageProject.csproj|solutionrelative:messageproject\\validationmessagewrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15F0C0DA-5974-42EC-BE02-C577B7208974}|DI\\DI.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15F0C0DA-5974-42EC-BE02-C577B7208974}|DI\\DI.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_2\\di\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15F0C0DA-5974-42EC-BE02-C577B7208974}|DI\\DI.csproj|solutionrelative:di\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0126174-C168-4857-A32B-10433E922344}|MessageProject\\MessageProject.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\messageproject\\imessagewrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0126174-C168-4857-A32B-10433E922344}|MessageProject\\MessageProject.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_2\\messageproject\\imessagewrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0126174-C168-4857-A32B-10433E922344}|MessageProject\\MessageProject.csproj|solutionrelative:messageproject\\imessagewrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0126174-C168-4857-A32B-10433E922344}|MessageProject\\MessageProject.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\messageproject\\consolemessagewrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0126174-C168-4857-A32B-10433E922344}|MessageProject\\MessageProject.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_2\\messageproject\\consolemessagewrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0126174-C168-4857-A32B-10433E922344}|MessageProject\\MessageProject.csproj|solutionrelative:messageproject\\consolemessagewrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0126174-C168-4857-A32B-10433E922344}|MessageProject\\MessageProject.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\messageproject\\messageboxwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0126174-C168-4857-A32B-10433E922344}|MessageProject\\MessageProject.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_2\\messageproject\\messageboxwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0126174-C168-4857-A32B-10433E922344}|MessageProject\\MessageProject.csproj|solutionrelative:messageproject\\messageboxwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,89 +48,83 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ValidationMessageWrite.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\MessageProject\\ValidationMessageWrite.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\MessageProject\\ValidationMessageWrite.cs",
               "RelativeDocumentMoniker": "MessageProject\\ValidationMessageWrite.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\MessageProject\\ValidationMessageWrite.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\MessageProject\\ValidationMessageWrite.cs",
               "RelativeToolTip": "MessageProject\\ValidationMessageWrite.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T21:13:15.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T21:13:15.381Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "MessageBoxWrite.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\MessageProject\\MessageBoxWrite.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\MessageProject\\MessageBoxWrite.cs",
               "RelativeDocumentMoniker": "MessageProject\\MessageBoxWrite.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\MessageProject\\MessageBoxWrite.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\MessageProject\\MessageBoxWrite.cs",
               "RelativeToolTip": "MessageProject\\MessageBoxWrite.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T21:03:38.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T21:03:38.187Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ConsoleMessageWrite.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\MessageProject\\ConsoleMessageWrite.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\MessageProject\\ConsoleMessageWrite.cs",
               "RelativeDocumentMoniker": "MessageProject\\ConsoleMessageWrite.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\MessageProject\\ConsoleMessageWrite.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\MessageProject\\ConsoleMessageWrite.cs",
               "RelativeToolTip": "MessageProject\\ConsoleMessageWrite.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T21:02:06.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T21:02:06.163Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "IMessageWrite.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\MessageProject\\IMessageWrite.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\MessageProject\\IMessageWrite.cs",
               "RelativeDocumentMoniker": "MessageProject\\IMessageWrite.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\MessageProject\\IMessageWrite.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\MessageProject\\IMessageWrite.cs",
               "RelativeToolTip": "MessageProject\\IMessageWrite.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T21:02:04.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T21:02:04.691Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "GameStoreViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI\\GameStoreViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\DI\\GameStoreViewModel.cs",
               "RelativeDocumentMoniker": "DI\\GameStoreViewModel.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI\\GameStoreViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\DI\\GameStoreViewModel.cs",
               "RelativeToolTip": "DI\\GameStoreViewModel.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T20:48:14.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T20:48:14.779Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI\\Game.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\DI\\Game.cs",
               "RelativeDocumentMoniker": "DI\\Game.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI\\Game.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\DI\\Game.cs",
               "RelativeToolTip": "DI\\Game.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAA0wAAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T20:40:19.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T20:40:19.317Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\DI\\Program.cs",
               "RelativeDocumentMoniker": "DI\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\DI\\Program.cs",
               "RelativeToolTip": "DI\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T18:19:33.135Z",
               "EditorCaption": ""

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WXePnAQ+hTU=",
+  "dgSpecHash": "aOt47ev34l0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Артём\\source\\repos\\ASP.NET\\DI\\DI\\DI\\DI.csproj",
+  "projectFilePath": "C:\\Users\\Артём\\source\\repos\\ASP.NET\\DI\\DI_2\\DI\\DI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Артём\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
     "C:\\Users\\Артём\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
