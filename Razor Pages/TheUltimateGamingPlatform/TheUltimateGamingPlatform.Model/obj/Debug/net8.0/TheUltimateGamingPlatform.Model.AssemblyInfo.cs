@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheUltimateGamingPlatform.Model")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d597da00a66a8afd5c89e0a83fe5fc01cf5b6cda")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cc19e295deb571d3df14f466ee69c5e57926c56")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheUltimateGamingPlatform.Model")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheUltimateGamingPlatform.Model")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
