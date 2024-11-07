@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\Razor Pages\\TheUltimateGamingPlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74187D-81CC-4184-8F41-C03FC1A32D79}|TheUltimateGamingPlatform.Web\\TheUltimateGamingPlatform.Web.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\razor pages\\theultimategamingplatform\\theultimategamingplatform.web\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F74187D-81CC-4184-8F41-C03FC1A32D79}|TheUltimateGamingPlatform.Web\\TheUltimateGamingPlatform.Web.csproj|solutionrelative:theultimategamingplatform.web\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74187D-81CC-4184-8F41-C03FC1A32D79}|TheUltimateGamingPlatform.Web\\TheUltimateGamingPlatform.Web.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\razor pages\\theultimategamingplatform\\theultimategamingplatform.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F74187D-81CC-4184-8F41-C03FC1A32D79}|TheUltimateGamingPlatform.Web\\TheUltimateGamingPlatform.Web.csproj|solutionrelative:theultimategamingplatform.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74187D-81CC-4184-8F41-C03FC1A32D79}|TheUltimateGamingPlatform.Web\\TheUltimateGamingPlatform.Web.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\razor pages\\theultimategamingplatform\\theultimategamingplatform.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F74187D-81CC-4184-8F41-C03FC1A32D79}|TheUltimateGamingPlatform.Web\\TheUltimateGamingPlatform.Web.csproj|solutionrelative:theultimategamingplatform.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A841E84-D960-4778-8CDC-26176CC0AFC3}|TheUltimateGamingPlatform.Database\\TheUltimateGamingPlatform.Database.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\razor pages\\theultimategamingplatform\\theultimategamingplatform.database\\repository\\repositorygame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A841E84-D960-4778-8CDC-26176CC0AFC3}|TheUltimateGamingPlatform.Database\\TheUltimateGamingPlatform.Database.csproj|solutionrelative:theultimategamingplatform.database\\repository\\repositorygame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A841E84-D960-4778-8CDC-26176CC0AFC3}|TheUltimateGamingPlatform.Database\\TheUltimateGamingPlatform.Database.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\razor pages\\theultimategamingplatform\\theultimategamingplatform.database\\theultimategamingplatformcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A841E84-D960-4778-8CDC-26176CC0AFC3}|TheUltimateGamingPlatform.Database\\TheUltimateGamingPlatform.Database.csproj|solutionrelative:theultimategamingplatform.database\\theultimategamingplatformcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D9BF02-0A28-49BB-9BC6-8E0F0FBF8E0A}|TheUltimateGamingPlatform.Model\\TheUltimateGamingPlatform.Model.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\razor pages\\theultimategamingplatform\\theultimategamingplatform.model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D9BF02-0A28-49BB-9BC6-8E0F0FBF8E0A}|TheUltimateGamingPlatform.Model\\TheUltimateGamingPlatform.Model.csproj|solutionrelative:theultimategamingplatform.model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D9BF02-0A28-49BB-9BC6-8E0F0FBF8E0A}|TheUltimateGamingPlatform.Model\\TheUltimateGamingPlatform.Model.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\razor pages\\theultimategamingplatform\\theultimategamingplatform.model\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D9BF02-0A28-49BB-9BC6-8E0F0FBF8E0A}|TheUltimateGamingPlatform.Model\\TheUltimateGamingPlatform.Model.csproj|solutionrelative:theultimategamingplatform.model\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74187D-81CC-4184-8F41-C03FC1A32D79}|TheUltimateGamingPlatform.Web\\TheUltimateGamingPlatform.Web.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\razor pages\\theultimategamingplatform\\theultimategamingplatform.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F74187D-81CC-4184-8F41-C03FC1A32D79}|TheUltimateGamingPlatform.Web\\TheUltimateGamingPlatform.Web.csproj|solutionrelative:theultimategamingplatform.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositoryGame.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\Razor Pages\\TheUltimateGamingPlatform\\TheUltimateGamingPlatform.Database\\Repository\\RepositoryGame.cs",
+              "RelativeDocumentMoniker": "TheUltimateGamingPlatform.Database\\Repository\\RepositoryGame.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\Razor Pages\\TheUltimateGamingPlatform\\TheUltimateGamingPlatform.Database\\Repository\\RepositoryGame.cs",
+              "RelativeToolTip": "TheUltimateGamingPlatform.Database\\Repository\\RepositoryGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:35:31.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\Razor Pages\\TheUltimateGamingPlatform\\TheUltimateGamingPlatform.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "TheUltimateGamingPlatform.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\Razor Pages\\TheUltimateGamingPlatform\\TheUltimateGamingPlatform.Web\\appsettings.json",
+              "RelativeToolTip": "TheUltimateGamingPlatform.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T09:14:41.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TheUltimateGamingPlatformContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\Razor Pages\\TheUltimateGamingPlatform\\TheUltimateGamingPlatform.Database\\TheUltimateGamingPlatformContext.cs",
+              "RelativeDocumentMoniker": "TheUltimateGamingPlatform.Database\\TheUltimateGamingPlatformContext.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\Razor Pages\\TheUltimateGamingPlatform\\TheUltimateGamingPlatform.Database\\TheUltimateGamingPlatformContext.cs",
+              "RelativeToolTip": "TheUltimateGamingPlatform.Database\\TheUltimateGamingPlatformContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:13:57.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\Razor Pages\\TheUltimateGamingPlatform\\TheUltimateGamingPlatform.Web\\Program.cs",
+              "RelativeDocumentMoniker": "TheUltimateGamingPlatform.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\Razor Pages\\TheUltimateGamingPlatform\\TheUltimateGamingPlatform.Web\\Program.cs",
+              "RelativeToolTip": "TheUltimateGamingPlatform.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:09:15.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\Razor Pages\\TheUltimateGamingPlatform\\TheUltimateGamingPlatform.Web\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "TheUltimateGamingPlatform.Web\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\Razor Pages\\TheUltimateGamingPlatform\\TheUltimateGamingPlatform.Web\\Pages\\Index.cshtml",
+              "RelativeToolTip": "TheUltimateGamingPlatform.Web\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T09:08:33.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\Razor Pages\\TheUltimateGamingPlatform\\TheUltimateGamingPlatform.Web\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "TheUltimateGamingPlatform.Web\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\Razor Pages\\TheUltimateGamingPlatform\\TheUltimateGamingPlatform.Web\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "TheUltimateGamingPlatform.Web\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:07:14.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\Razor Pages\\TheUltimateGamingPlatform\\TheUltimateGamingPlatform.Model\\Genre.cs",
+              "RelativeDocumentMoniker": "TheUltimateGamingPlatform.Model\\Genre.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\Razor Pages\\TheUltimateGamingPlatform\\TheUltimateGamingPlatform.Model\\Genre.cs",
+              "RelativeToolTip": "TheUltimateGamingPlatform.Model\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:05:14.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\Razor Pages\\TheUltimateGamingPlatform\\TheUltimateGamingPlatform.Model\\Game.cs",
+              "RelativeDocumentMoniker": "TheUltimateGamingPlatform.Model\\Game.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\Razor Pages\\TheUltimateGamingPlatform\\TheUltimateGamingPlatform.Model\\Game.cs",
+              "RelativeToolTip": "TheUltimateGamingPlatform.Model\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:05:01.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{1668797A-D854-423F-96AF-2AEB80CA9928}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1668797A-D854-423F-96AF-2AEB80CA9928}|WebApplication1\\WebApplication1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\razor pages\\webapplication1\\webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1668797A-D854-423F-96AF-2AEB80CA9928}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1668797A-D854-423F-96AF-2AEB80CA9928}|WebApplication1\\WebApplication1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\razor pages\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1668797A-D854-423F-96AF-2AEB80CA9928}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1668797A-D854-423F-96AF-2AEB80CA9928}|WebApplication1\\WebApplication1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\razor pages\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1668797A-D854-423F-96AF-2AEB80CA9928}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1668797A-D854-423F-96AF-2AEB80CA9928}|WebApplication1\\WebApplication1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\razor pages\\webapplication1\\webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1668797A-D854-423F-96AF-2AEB80CA9928}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
@@ -40,14 +44,14 @@
               "RelativeDocumentMoniker": "WebApplication1\\Pages\\Index.cshtml.cs",
               "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\Razor Pages\\WebApplication1\\WebApplication1\\Pages\\Index.cshtml.cs",
               "RelativeToolTip": "WebApplication1\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T17:14:09.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\Razor Pages\\WebApplication1\\WebApplication1\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Pages\\Index.cshtml",
@@ -60,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "WebApplication1",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\Razor Pages\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
               "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
@@ -73,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\Razor Pages\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",

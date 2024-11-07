@@ -59,21 +59,19 @@
               "RelativeToolTip": "WebApplication1\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T17:13:56.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T17:13:56.539Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WebApplication1",
+              "Title": "WebApplication1.csproj",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\Razor Pages\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
               "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
               "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\Razor Pages\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
               "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-01T17:12:56.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T17:12:56.042Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "WebApplication1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T17:06:46.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T17:06:46.958Z"
             }
           ]
         }
