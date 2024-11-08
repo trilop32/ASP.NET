@@ -4,36 +4,25 @@ using System.Runtime.CompilerServices;
 using System.Windows;
 using System.Windows.Input;
 using System.ComponentModel;
+using System.Windows.Navigation;
+using GalaSoft.MvvmLight.Views;
 namespace WpfApp1.ViewModel
 {
-    public class MainWindowViewModel:INotifyPropertyChanged
+    public class MainWindowViewModel
     {
-        private BasePageViewModel basePageViewModel;
-        public BasePageViewModel BasePageViewModel
-        {
-            get { return basePageViewModel; }
-            set {  basePageViewModel = value; OnPropertyChanged(); }
-        }
+        public NavigationService NavigationService {get;}
         public RelayCommand NavigateToMenuCommand { get; set; }
         public RelayCommand NavigateToHomeCommand { get; set; }
-        public MainWindowViewModel()
+        public MainWindowViewModel(INavigationService navigationService)
         {
-            NavigateToMenuCommand = new(NavigateToMenu);
-            NavigateToHomeCommand = new(NavigateToHome);
-            basePageViewModel = new MenuPageViewModel();
+            NavigateToMenuCommand = new(x => navigationService.NavigateTo<MenuPageViewModel>);
+            NavigateToHomeCommand = new(x => navigationService.NavigateTo<HomePageViewModel>);
         }
-        public void NavigateToMenu(object? obj)
-        {
-            BasePageViewModel = new MenuPageViewModel();
-        }
-        public void NavigateToHome(object? obj)
-        {
-            BasePageViewModel = new HomePageViewModel();
-        }
-        public event ProcessInputEventHandler? PropertyChanged;
-        public void OnPropertyChanged([CallerMemberName] string propertyName="")
-        {
-            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
-        }
+        
+        //public event ProcessInputEventHandler? PropertyChanged;
+        //public void OnPropertyChanged([CallerMemberName] string propertyName="")
+        //{
+        //    PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+        //}
     }
 }

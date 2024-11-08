@@ -3,9 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:WpfApp1"
              xmlns:pages="clr-nemespace:WpfApp1.Pages"
-             xmlns:viewModel="clr-nemespace:WpfApp1.ViewModel.Pages"
-             StartupUri="MainWindow.xaml">
-    
+             xmlns:viewModel="clr-nemespace:WpfApp1.ViewModel.Pages"            
     <Application.Resources>
         <DataTemplate DataType="{x:Type viewModel:HomePageViewModel}">
             <pages:Home/>

@@ -25,7 +25,7 @@
             Margin="0, 0, 10, 0"
             Command="{Binding NavigateToMenuCommand}"
             HorizontalAlignment="Right"
-            Content="To Home">
+            Content="To Menu">
             </Button>
         </Grid>
     </Grid>
