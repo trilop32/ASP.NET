@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{167CB58F-FE64-4C22-83D1-1A1A90EE86A3}|WpfApp1\\WpfApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_2\\wpfapp1\\wpfapp1\\core\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167CB58F-FE64-4C22-83D1-1A1A90EE86A3}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\core\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167CB58F-FE64-4C22-83D1-1A1A90EE86A3}|WpfApp1\\WpfApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_2\\wpfapp1\\wpfapp1\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167CB58F-FE64-4C22-83D1-1A1A90EE86A3}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167CB58F-FE64-4C22-83D1-1A1A90EE86A3}|WpfApp1\\WpfApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_2\\wpfapp1\\wpfapp1\\viewmodel\\pages\\menupageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167CB58F-FE64-4C22-83D1-1A1A90EE86A3}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmodel\\pages\\menupageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167CB58F-FE64-4C22-83D1-1A1A90EE86A3}|WpfApp1\\WpfApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_2\\wpfapp1\\wpfapp1\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167CB58F-FE64-4C22-83D1-1A1A90EE86A3}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167CB58F-FE64-4C22-83D1-1A1A90EE86A3}|WpfApp1\\WpfApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_2\\wpfapp1\\wpfapp1\\viewmodel\\pages\\basepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167CB58F-FE64-4C22-83D1-1A1A90EE86A3}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmodel\\pages\\basepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167CB58F-FE64-4C22-83D1-1A1A90EE86A3}|WpfApp1\\WpfApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_2\\wpfapp1\\wpfapp1\\viewmodel\\pages\\homepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167CB58F-FE64-4C22-83D1-1A1A90EE86A3}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmodel\\pages\\homepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167CB58F-FE64-4C22-83D1-1A1A90EE86A3}|WpfApp1\\WpfApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_2\\wpfapp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{167CB58F-FE64-4C22-83D1-1A1A90EE86A3}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167CB58F-FE64-4C22-83D1-1A1A90EE86A3}|WpfApp1\\WpfApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_2\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167CB58F-FE64-4C22-83D1-1A1A90EE86A3}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167CB58F-FE64-4C22-83D1-1A1A90EE86A3}|WpfApp1\\WpfApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_2\\wpfapp1\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{167CB58F-FE64-4C22-83D1-1A1A90EE86A3}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167CB58F-FE64-4C22-83D1-1A1A90EE86A3}|WpfApp1\\WpfApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_2\\wpfapp1\\wpfapp1\\pages\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{167CB58F-FE64-4C22-83D1-1A1A90EE86A3}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\pages\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167CB58F-FE64-4C22-83D1-1A1A90EE86A3}|WpfApp1\\WpfApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_2\\wpfapp1\\wpfapp1\\pages\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{167CB58F-FE64-4C22-83D1-1A1A90EE86A3}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\pages\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObservableObject.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\WpfApp1\\WpfApp1\\Core\\ObservableObject.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Core\\ObservableObject.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\WpfApp1\\WpfApp1\\Core\\ObservableObject.cs",
+              "RelativeToolTip": "WpfApp1\\Core\\ObservableObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T20:37:30.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\WpfApp1\\WpfApp1\\Core\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Core\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\WpfApp1\\WpfApp1\\Core\\RelayCommand.cs",
+              "RelativeToolTip": "WpfApp1\\Core\\RelayCommand.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T20:19:15.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\WpfApp1\\WpfApp1\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\WpfApp1\\WpfApp1\\App.xaml",
+              "RelativeToolTip": "WpfApp1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T19:52:28.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomePageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\WpfApp1\\WpfApp1\\ViewModel\\Pages\\HomePageViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewModel\\Pages\\HomePageViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\WpfApp1\\WpfApp1\\ViewModel\\Pages\\HomePageViewModel.cs",
+              "RelativeToolTip": "WpfApp1\\ViewModel\\Pages\\HomePageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:48:54.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\WpfApp1\\WpfApp1\\ViewModel\\Pages\\MenuPageViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewModel\\Pages\\MenuPageViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\WpfApp1\\WpfApp1\\ViewModel\\Pages\\MenuPageViewModel.cs",
+              "RelativeToolTip": "WpfApp1\\ViewModel\\Pages\\MenuPageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:48:29.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasePageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\WpfApp1\\WpfApp1\\ViewModel\\Pages\\BasePageViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewModel\\Pages\\BasePageViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\WpfApp1\\WpfApp1\\ViewModel\\Pages\\BasePageViewModel.cs",
+              "RelativeToolTip": "WpfApp1\\ViewModel\\Pages\\BasePageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:48:01.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\WpfApp1\\WpfApp1\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewModel\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\WpfApp1\\WpfApp1\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeToolTip": "WpfApp1\\ViewModel\\MainWindowViewModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:47:27.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\WpfApp1\\WpfApp1\\Pages\\Home.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\Home.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\WpfApp1\\WpfApp1\\Pages\\Home.xaml",
+              "RelativeToolTip": "WpfApp1\\Pages\\Home.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T19:27:12.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Menu.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\WpfApp1\\WpfApp1\\Pages\\Menu.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\Menu.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\WpfApp1\\WpfApp1\\Pages\\Menu.xaml",
+              "RelativeToolTip": "WpfApp1\\Pages\\Menu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T19:24:37.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T19:21:53.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:21:53.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

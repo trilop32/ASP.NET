@@ -1,0 +1,6 @@
+C:\Users\Артём\source\repos\ASP.NET\DI\DI_2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Артём\source\repos\ASP.NET\DI\DI_2\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Артём\source\repos\ASP.NET\DI\DI_2\WpfApp1\WpfApp1\obj\Debug\Pages\Home.g.cs
+C:\Users\Артём\source\repos\ASP.NET\DI\DI_2\WpfApp1\WpfApp1\obj\Debug\Pages\Menu.g.cs
+C:\Users\Артём\source\repos\ASP.NET\DI\DI_2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Артём\source\repos\ASP.NET\DI\DI_2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
