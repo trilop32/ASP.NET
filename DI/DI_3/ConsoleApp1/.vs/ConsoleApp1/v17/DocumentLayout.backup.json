@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_3\\consoleapp1\\consoleapp1\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_3\\consoleapp1\\consoleapp1\\irepositorycustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\irepositorycustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_3\\consoleapp1\\consoleapp1\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_3\\consoleapp1\\consoleapp1\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_3\\consoleapp1\\consoleapp1\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_3\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_3\\consoleapp1\\consoleapp1\\repositoryorm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\repositoryorm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_3\\consoleapp1\\consoleapp1\\repositorydapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\repositorydapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\IOrderRepository.cs*",
+              "RelativeToolTip": "ConsoleApp1\\IOrderRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:10:41.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserrepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\IUserrepository.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\IUserrepository.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\IUserrepository.cs*",
+              "RelativeToolTip": "ConsoleApp1\\IUserrepository.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:10:16.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepositoryCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\IRepositoryCustomer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\IRepositoryCustomer.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\IRepositoryCustomer.cs*",
+              "RelativeToolTip": "ConsoleApp1\\IRepositoryCustomer.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:09:44.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\Worker.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Worker.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\Worker.cs*",
+              "RelativeToolTip": "ConsoleApp1\\Worker.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:06:00.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RepositoryDapper.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\RepositoryDapper.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\RepositoryDapper.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\RepositoryDapper.cs*",
+              "RelativeToolTip": "ConsoleApp1\\RepositoryDapper.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:24:47.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositoryOrm.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\RepositoryOrm.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\RepositoryOrm.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\RepositoryOrm.cs*",
+              "RelativeToolTip": "ConsoleApp1\\RepositoryOrm.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:24:11.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\IRepository.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\IRepository.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\IRepository.cs*",
+              "RelativeToolTip": "ConsoleApp1\\IRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:23:32.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:21:47.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
