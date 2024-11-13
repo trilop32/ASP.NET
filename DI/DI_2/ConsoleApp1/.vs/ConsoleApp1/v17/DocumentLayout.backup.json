@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2E128CDE-8AA7-473B-AA8A-20FD0EE58E7E}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_2\\consoleapp1\\consoleapp1\\database\\repositories\\repositorymovieado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E128CDE-8AA7-473B-AA8A-20FD0EE58E7E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\database\\repositories\\repositorymovieado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2E128CDE-8AA7-473B-AA8A-20FD0EE58E7E}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_2\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E128CDE-8AA7-473B-AA8A-20FD0EE58E7E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,8 +38,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepositoryMovieAdo.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\ConsoleApp1\\ConsoleApp1\\Database\\Repositories\\RepositoryMovieAdo.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Database\\Repositories\\RepositoryMovieAdo.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\ConsoleApp1\\ConsoleApp1\\Database\\Repositories\\RepositoryMovieAdo.cs",
+              "RelativeToolTip": "ConsoleApp1\\Database\\Repositories\\RepositoryMovieAdo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T22:20:35.631Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -46,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MessageBoxWrite.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\ConsoleApp1\\ConsoleApp1\\Messages\\MessageBoxWrite.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Messages\\MessageBoxWrite.cs",
@@ -58,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ConsoleMessageWrite.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\ConsoleApp1\\ConsoleApp1\\Messages\\ConsoleMessageWrite.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Messages\\ConsoleMessageWrite.cs",
@@ -66,12 +83,11 @@
               "RelativeToolTip": "ConsoleApp1\\Messages\\ConsoleMessageWrite.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T14:52:43.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T14:52:43.229Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IMessageWrite.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\ConsoleApp1\\ConsoleApp1\\Messages\\Interfaces\\IMessageWrite.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Messages\\Interfaces\\IMessageWrite.cs",
@@ -83,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MovieWriter.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\ConsoleApp1\\ConsoleApp1\\MovieWriter.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\MovieWriter.cs",
@@ -95,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Movie.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\ConsoleApp1\\ConsoleApp1\\Model\\Movie.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Model\\Movie.cs",
@@ -107,13 +123,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_2\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAACQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T20:13:27.167Z",
               "EditorCaption": ""
