@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_3\\consoleapp1\\consoleapp1\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_3\\consoleapp1\\consoleapp1\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_3\\consoleapp1\\consoleapp1\\irepositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\irepositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_3\\consoleapp1\\consoleapp1\\irepositorycustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\irepositorycustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_3\\consoleapp1\\consoleapp1\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_3\\consoleapp1\\consoleapp1\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_3\\consoleapp1\\consoleapp1\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_3\\consoleapp1\\consoleapp1\\iworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\iworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_3\\consoleapp1\\consoleapp1\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_3\\consoleapp1\\consoleapp1\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B10ECC78-89D8-44C9-9316-9ABE10C0F3CB}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\asp.net\\di\\di_3\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,30 +50,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepositoryFactory.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\IRepositoryFactory.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\IRepositoryFactory.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\IRepositoryFactory.cs",
+              "RelativeToolTip": "ConsoleApp1\\IRepositoryFactory.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:30:52.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "IWorker.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\IWorker.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\IWorker.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\IWorker.cs",
+              "RelativeToolTip": "ConsoleApp1\\IWorker.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:24:00.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\IOrderRepository.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\IOrderRepository.cs*",
-              "RelativeToolTip": "ConsoleApp1\\IOrderRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\IOrderRepository.cs",
+              "RelativeToolTip": "ConsoleApp1\\IOrderRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvwoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T20:10:41.608Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "IUserrepository.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\IUserrepository.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\IUserrepository.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\IUserrepository.cs*",
-              "RelativeToolTip": "ConsoleApp1\\IUserrepository.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAowA8AAAAUAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\IUserrepository.cs",
+              "RelativeToolTip": "ConsoleApp1\\IUserrepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowBAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T20:10:16.529Z",
               "EditorCaption": ""
@@ -80,38 +114,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IRepositoryCustomer.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\IRepositoryCustomer.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\IRepositoryCustomer.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\IRepositoryCustomer.cs*",
-              "RelativeToolTip": "ConsoleApp1\\IRepositoryCustomer.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAmwA8AAAAUAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\IRepositoryCustomer.cs",
+              "RelativeToolTip": "ConsoleApp1\\IRepositoryCustomer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T20:09:44.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Worker.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\Worker.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Worker.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\Worker.cs*",
-              "RelativeToolTip": "ConsoleApp1\\Worker.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBAAAAAFAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\Worker.cs",
+              "RelativeToolTip": "ConsoleApp1\\Worker.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T20:06:00.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "RepositoryDapper.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\RepositoryDapper.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\RepositoryDapper.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\RepositoryDapper.cs*",
-              "RelativeToolTip": "ConsoleApp1\\RepositoryDapper.cs*",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\RepositoryDapper.cs",
+              "RelativeToolTip": "ConsoleApp1\\RepositoryDapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T19:24:47.316Z",
@@ -119,12 +153,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "RepositoryOrm.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\RepositoryOrm.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\RepositoryOrm.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\RepositoryOrm.cs*",
-              "RelativeToolTip": "ConsoleApp1\\RepositoryOrm.cs*",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\RepositoryOrm.cs",
+              "RelativeToolTip": "ConsoleApp1\\RepositoryOrm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T19:24:11.256Z",
@@ -132,25 +166,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\IRepository.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\IRepository.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\IRepository.cs*",
-              "RelativeToolTip": "ConsoleApp1\\IRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\IRepository.cs",
+              "RelativeToolTip": "ConsoleApp1\\IRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T19:23:32.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\Program.cs*",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs*",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\ASP.NET\\DI\\DI_3\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T19:21:47.467Z",
