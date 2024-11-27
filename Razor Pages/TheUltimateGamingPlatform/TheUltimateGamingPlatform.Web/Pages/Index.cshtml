@@ -1,0 +1,19 @@
+﻿@page
+@model TheUltimateGamingPlatform.Web.Pages.IndexModel
+
+<div class="container">
+    <h1 class="mt-3">Игры: </h1>
+    <div class="row row-cols-4 gap-3 mt-4">
+        @foreach (var game in Model.Games)
+        {
+            <div class="card" style="width: 18rem;">
+                <img src="@game.PreviewImg" class="card-img-top" alt="@game.Title">
+                <div class="card-body">
+                    <h5 class="card-title">@game.Title</h5>
+                    <p class="card-text">@game.Price</p>
+                    <a asp-page="GameDetails" asp-route-id="@game.Id" class="btn btn-primary">Купить</a>
+                </div>
+            </div>
+        }
+    </div>
+</div>

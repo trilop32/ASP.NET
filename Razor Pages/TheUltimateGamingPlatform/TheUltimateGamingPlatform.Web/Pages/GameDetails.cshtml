@@ -1,0 +1,238 @@
+﻿@page
+@model TheUltimateGamingPlatform.Web.Pages.GameDetailsModel
+
+@if (Model.Game is not null)
+{
+    <div class="container py-5">
+        <div class="row">
+            <div class="col-lg-6">
+                <div id="productCarousel" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="@Model.Game.PreviewImg" class="d-block w-100" alt="@Model.Game.Title" />
+                        </div>
+                        @if (Model.Game.GameContents is not null && Model.Game.GameContents.Count != 0)
+                        {
+                            @for (int i = 0; i < Model.Game.GameContents.Count; i++)
+                            {
+                                <div class="carousel-item">
+                                    <img src="@Model.Game.GameContents[i].UrlContent" class="d-block w-100" controls />
+                                </div>
+                            }
+                        }
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#productCarousel"
+                            data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#productCarousel"
+                            data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <h2 class="fw-bold">@Model.Game.Title</h2>
+                <h5>Жанры: </h5>
+                <ul>
+                    @foreach (var genres in Model.Game.Genres)
+                    {
+                        <li>@genres.Title</li>
+                    }
+                </ul>
+                <h3 class="my-4">@Model.Game.Price ₽</h3>
+                <p class="mb-4">
+                    @Model.Game.Description
+                </p>
+                <div class="d-flex gap-3 mb-4">
+                    @if (Model.IsPurchased)
+                    {
+                        <button type="button" class="btn btn-outline-info">Товар уже куплен</button>
+                    }
+                    else if (Model.IsContainsInCart)
+                    {
+                        <button type="button" class="btn btn-outline-danger">Товар уже добавлен в корзину</button>
+                    }
+                    else
+                    {
+                        <form method="post">
+                            <input type="hidden" name="id" value="@Model.Game.Id" />
+                            <input type="submit" class="btn btn-success" value="Добавить в корзину" />
+                        </form>
+                    }
+                </div>
+                <div>
+                    @if (!Model.IsPurchased)
+                    {
+                        @if (Model.IsWishList)
+                        {
+                            <button type="button" class="btn btn-outline-danger">Игра уже есть в списке желаемого</button>
+                        }
+                        else
+                        {
+                            <form method="post" asp-page-handler="AddWishList">
+                                <input type="hidden" name="id" value="@Model.Game.Id" />
+                                <input class="btn btn-primary" type="submit" value="Добавить в список желаемого" />
+                            </form>
+                        }
+                    }
+
+                </div>
+            </div>
+
+
+
+            <h5>Системные требования</h5>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">Минимальные требования</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope="row">ОС</th>
+                        <td>@Model.Game.MinimumSystemRequirement.OS</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Процессор</th>
+                        <td>@Model.Game.MinimumSystemRequirement.Processor</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">RAM</th>
+                        <td>@Model.Game.MinimumSystemRequirement.Memory</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Жёсткий диск</th>
+                        <td>@Model.Game.MinimumSystemRequirement.HardDrive</td>
+                    </tr>
+
+                    @if (Model.Game.MinimumSystemRequirement.VideoCard is not null)
+                    {
+                        <tr>
+                            <th scope="row">Видео карта</th>
+                            <td>@Model.Game.MinimumSystemRequirement.VideoCard</td>
+                        </tr>
+                    }
+
+                    @if (Model.Game.MinimumSystemRequirement.DirectX is not null)
+                    {
+                        <tr>
+                            <th scope="row">DirectX</th>
+                            <td>@Model.Game.MinimumSystemRequirement.DirectX</td>
+                        </tr>
+                    }
+
+                    @if (Model.Game.MinimumSystemRequirement.VR is not null)
+                    {
+                        <tr>
+                            <th scope="row">VR</th>
+                            <td>@Model.Game.MinimumSystemRequirement.VR</td>
+                        </tr>
+                    }
+
+                    @if (Model.Game.MinimumSystemRequirement.Additionally is not null)
+                    {
+                        <tr>
+                            <th scope="row">Прочее</th>
+                            <td>@Model.Game.MinimumSystemRequirement.Additionally</td>
+                        </tr>
+                    }
+
+                    @if (Model.Game.MinimumSystemRequirement.Network is not null)
+                    {
+                        <tr>
+                            <th scope="row">Сеть</th>
+                            <td>@Model.Game.MinimumSystemRequirement.Network</td>
+                        </tr>
+                    }
+
+                    @if (Model.Game.MinimumSystemRequirement.SoundCard is not null)
+                    {
+                        <tr>
+                            <th scope="row">Звуковая карта</th>
+                            <td>@Model.Game.MinimumSystemRequirement.SoundCard</td>
+                        </tr>
+                    }
+            </table>
+
+
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">Рекомендованные требования</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope="row">ОС</th>
+                        <td>@Model.Game.RecommendedSystemRequirement.OS</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Процессор</th>
+                        <td>@Model.Game.RecommendedSystemRequirement.Processor</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">RAM</th>
+                        <td>@Model.Game.RecommendedSystemRequirement.Memory</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Жёсткий диск</th>
+                        <td>@Model.Game.RecommendedSystemRequirement.HardDrive</td>
+                    </tr>
+
+                    @if (Model.Game.RecommendedSystemRequirement.VideoCard is not null)
+                    {
+                        <tr>
+                            <th scope="row">Видео карта</th>
+                            <td>@Model.Game.RecommendedSystemRequirement.VideoCard</td>
+                        </tr>
+                    }
+
+                    @if (Model.Game.RecommendedSystemRequirement.DirectX is not null)
+                    {
+                        <tr>
+                            <th scope="row">DirectX</th>
+                            <td>@Model.Game.MinimumSystemRequirement.DirectX</td>
+                        </tr>
+                    }
+
+                    @if (Model.Game.RecommendedSystemRequirement.VR is not null)
+                    {
+                        <tr>
+                            <th scope="row">VR</th>
+                            <td>@Model.Game.RecommendedSystemRequirement.VR</td>
+                        </tr>
+                    }
+
+                    @if (Model.Game.RecommendedSystemRequirement.Additionally is not null)
+                    {
+                        <tr>
+                            <th scope="row">Прочее</th>
+                            <td>@Model.Game.RecommendedSystemRequirement.Additionally</td>
+                        </tr>
+                    }
+
+                    @if (Model.Game.RecommendedSystemRequirement.Network is not null)
+                    {
+                        <tr>
+                            <th scope="row">Сеть</th>
+                            <td>@Model.Game.RecommendedSystemRequirement.Network</td>
+                        </tr>
+                    }
+
+                    @if (Model.Game.RecommendedSystemRequirement.SoundCard is not null)
+                    {
+                        <tr>
+                            <th scope="row">Звуковая карта</th>
+                            <td>@Model.Game.RecommendedSystemRequirement.SoundCard</td>
+                        </tr>
+                    }
+            </table>
+        </div>
+    </div>
+}
+else
+{
+    <h1>Игры не была найдена</h1>
+}

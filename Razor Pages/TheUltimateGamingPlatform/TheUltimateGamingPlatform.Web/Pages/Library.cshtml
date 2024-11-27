@@ -1,0 +1,18 @@
+﻿@page
+@model TheUltimateGamingPlatform.Web.Pages.LibraryModel
+
+
+<div class="container">
+    <h1 class="mt-3">Библиотека Игр: </h1>
+    <div class="row row-cols-4 gap-3 mt-4">
+        @foreach (var game in Model.Games)
+        {
+            <div class="card" style="width: 18rem;">
+                <img src="@game.PreviewImg" class="card-img-top" alt="@game.Title">
+                <div class="card-body">
+                    <h5 class="card-title">@game.Title</h5>
+                </div>
+            </div>
+        }
+    </div>
+</div>
