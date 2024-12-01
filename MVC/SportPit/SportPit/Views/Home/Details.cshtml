@@ -1,0 +1,39 @@
+﻿@model Product
+
+<div class="container py-5">
+    <div class="row">
+        <div class="col-lg-6">
+            <div id="productCarousel" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="@Model.Img" class="d-block w-100" alt="@Model.Title" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <h2 class="fw-bold">@Model.Title</h2>
+            
+            <h3 class="my-4">@Model.Price</h3>
+            <p class="mb-4">
+                @Model.Description
+            </p>
+            <div class="d-flex gap-3 mb-4">
+                <a 
+                   class="btn btn-success" 
+                   asp-controller="Home" 
+                   asp-action="AddCart" 
+                   asp-route-id="@Model.Id"
+                   asp-route-price="@Model.Price"
+                   asp-route-title="@Model.Title"
+                   asp-route-img="@Model.Img"
+                   asp-route-description="@Model.Description">
+                        Добавить в корзину
+                </a>
+            </div>
+            <div>
+                <a class="btn btn-success">Добавить в список желаемого</a>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,54 @@
+﻿@model ProductsViewModel
+
+<div class="container">
+    <h1 class="mt-3">Продукты: </h1>
+    <form asp-controller="Home" asp-action="Index" method="get">
+        <p>
+            <select asp-for="Filtered">
+                <option value="">Все</option>
+                <option value="PriceDesc">Дешевле</option>
+                <option value="PriceAsc">Дороже</option>
+            </select>
+
+            <select asp-for="SelectedCategory" asp-items="Model.Categories">
+                <option value="">All</option>
+            </select>
+
+            <label>Название: <input type="text" asp-for="TitleProduct" /></label>
+            <input type="submit" value="Поиск" />
+        </p>
+    </form>
+    <div class="row row-cols-4 gap-3 mt-4">
+        @foreach (var game in Model.Products)
+        {
+            <div class="card" style="width: 18rem;">
+                <img src="@game.Img" class="card-img-top" alt="@game.Title">
+                <div class="card-body">
+                    <h5 class="card-title">@game.Title</h5>
+                    <p class="card-text">@game.Price</p>
+                    <a asp-controller="Home" asp-action="Details" asp-route-id="@game.Id" class="btn btn-primary">Купить</a>
+                </div>
+            </div>
+        }
+    </div>
+
+    @if (Model.PageViewModel.HasPreviousPage)
+    {
+        <a asp-controller="Home"
+           asp-action="Index"
+           asp-route-titleProduct="@Model.TitleProduct"
+           asp-route-selectedCategory="@Model.SelectedCategory"
+           asp-route-page="@(Model.PageViewModel.PageNumber - 1)"
+           class="btn btn-dark">Назад</a>
+    }
+
+    @if (Model.PageViewModel.HasNextPage)
+    {
+        <a asp-controller="Home"
+           asp-action="Index"
+           asp-route-titleProduct="@Model.TitleProduct"
+           asp-route-selectedCategory="@Model.SelectedCategory"
+           asp-route-page="@(Model.PageViewModel.PageNumber + 1)"
+           class="btn btn-dark">Вперёд</a>
+    }
+</div>
