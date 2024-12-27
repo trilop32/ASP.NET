@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using SportPit.Models;
 using SportPit.Repositories.Interfaces;
 
@@ -102,7 +101,7 @@ public class ProductsController(IProductRepository productRepository, IHttpConte
             }
             catch(Exception ex)
             {
-                if (ex is Exception)
+                if (ex is not null)
                 {
                     return NotFound();
                 }
